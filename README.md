@@ -10,6 +10,7 @@ Canva
 ## ✒️Prompts
 ### ChatGPT
 crie um artigo baseado sobre "debugging front end com ajuda do chat gpt"
+
 {REGRAS}
 > No máximo 5 linhas por blocos de explicação
 > crie até 5 subtítulos explicando o tema
